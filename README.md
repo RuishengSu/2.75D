@@ -1,4 +1,9 @@
-# 2.75D: Boosting learning by representing 3D Medical imaging to 2D features for small data
+<div align="center">
+    
+# [2.75D: Boosting learning by representing 3D Medical imaging to 2D features for small data](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2002.04251)
+    
+</div>
+
 In medical-data driven learning, 3D convolutional neural networks (CNNs) have started to show
 superior performance to 2D CNNs in numerous deep learning tasks, proving the added value of
 3D spatial information in feature representation. However, the difficulty in collecting more training
