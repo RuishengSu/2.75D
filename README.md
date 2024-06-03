@@ -234,3 +234,4 @@ If you use this code or models in your scientific work, please cite the followin
 ```
 
 ## License
+The code is MIT licensed, as found in the [LICENSE file](LICENSE)
